@@ -1,0 +1,6 @@
+## ESP-IDF 组件依赖
+dependencies:
+  espressif/esp-sr: "^2.0"
+  espressif/esp_audio_codec: "*"
+  espressif/esp_codec_dev: "*"
+  idf: ">=6.0"

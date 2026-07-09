@@ -1,0 +1,9 @@
+build/
+.vscode/
+.claude/
+*.pyc
+__pycache__/
+*.docx
+*.zip
+sdkconfig.old
+server/main/xiaozhi-server/models/
