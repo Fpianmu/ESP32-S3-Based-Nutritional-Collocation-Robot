@@ -6,4 +6,3 @@ __pycache__/
 *.docx
 *.zip
 sdkconfig.old
-server/main/xiaozhi-server/models/
